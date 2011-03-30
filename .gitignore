@@ -1,2 +1,3 @@
-# ignorar todos os arquivos .doc
+# ignorar todos os arquivos .doc e .docx
 *.doc
+*.docx
